@@ -47,7 +47,7 @@ Compatibilidad entre navegadores: Aunque la compatibilidad ha mejorado, algunos 
 ## 📊 Cuadro comparativo (lenguajes Programacion).
 
 | Plataforma | Rendimiento | Paradigma | Personalización | Comunidad |
-|------------|---  --------|-----------|-----------------|---------  |
+|------------|-----------  |-----------|-----------------|---------  |
 | C#         |   Basico    | bajo nivel|  alto nivel     |alto nivel |
 | PYTHON     |   Alto      | alto nivel|  alto nivel     |alto nivel |
 | JavaScript |   bajo      | alto nivel|  alto nivel     | alto nivel|
